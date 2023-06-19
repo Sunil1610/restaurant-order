@@ -7,30 +7,30 @@ Design
 
 Collections
 
-Items Collection - 
-  item id
-  restaurant id
-  Food item
-  Description
-  Type(Starter/Main Course etc.)
-  Veg/Non veg, Alocholic/Non alcoholic
+Items Collection -  <br />
+  item id <br />
+  restaurant id <br />
+  Food item <br />
+  Description <br />
+  Type(Starter/Main Course etc.) <br />
+  Veg/Non veg, Alocholic/Non alcoholic <br />
 
-Image/Metadata collection - 
-  item id to metadata
+Image/Metadata collection -  <br />
+  item id to metadata <br />
 
-Order Collection - 
-  order id
-  List<item id, instructions>
-  restaurant id
-  quantity
+Order Collection -  <br />
+  order id <br />
+  List<item id, instructions> <br />
+  restaurant id <br />
+  quantity <br />
 
 
 APIs - 
-  Get all items in restaurant - grouping in ui
-  Add item to an order
-  Remove item from an order - Admin api
-  Lock order
-  Unlock order - Admin api
-  Generate bill
+  Get all items in restaurant - grouping in ui <br />
+  Add item to an order <br />
+  Remove item from an order - Admin api <br />
+  Lock order <br />
+  Unlock order - Admin api <br />
+  Generate bill <br />
   
   
